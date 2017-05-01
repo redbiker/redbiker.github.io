@@ -3,12 +3,8 @@
 ## Shortcuts
 - h: GitHub
 - l: GitLab
-- c: Calculus Homework
-- p: Physics Textbook
 - r: Reddit
 - a: Amazon
-- t: Take a Five
-- m: Movies
 - i: iWatchOnline
 - y: YouTube
 
