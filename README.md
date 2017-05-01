@@ -11,7 +11,7 @@
 ## Configuration
 
 ### index.html
-This is where you add your links. But don't worry, there's no HTML skills needed.
+This is where you add your links.
 
 There's really only two places you should take a look at: Line 44, where you set the page title, and everything below line 49, where the links go. There's some instructions in the comments, but since I'm busy writing anyways, I'll just repeat myself here.
 
@@ -66,6 +66,3 @@ There's some more stuff there, but this is the part we're interested about. Ever
 The part between ```?``` and ```=``` is the name of the ```GET``` argument, this goes in the second position.
 
 The third position can be any string really. I suggest you choose something descriptive here, like "Google".
-
-### style/style.css
-If you know CSS, edit to your heart's contempt.
