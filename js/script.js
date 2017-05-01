@@ -42,15 +42,13 @@ var settings = {
 	"search": {
 		"engines": [
 			["http://www.google.com/search", "q", "Google", "sg"],
-			["http://www.google.com/images", "q", "Google Images", "si"],
-			["http://www.youtube.com/results", "search_query", "YouTube", "sy"],
-			["https://duckduckgo.com/", "q", "DuckDuckGo", "sd"]
+			["http://www.youtube.com/results", "search_query", "YouTube", "sy"]
 		],
 		"focusSearch": false
 	},
 	
 	"clock": {
-		"showClock": true
+		"showClock": false
 	},
 
 	"animation": {
@@ -58,7 +56,7 @@ var settings = {
 	},
 
 	"icons": {
-		"showIcons": true
+		"showIcons": false
 	}
 };
 
